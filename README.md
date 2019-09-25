@@ -4,7 +4,7 @@ Both the package and the RStudio versions are in a development phas so if you ar
 
 ### How to download
 First install the "devtools" package via install.packages("devtools") in Program R then run:
-```library("devtools") ```
+```library("devtools") ```  
 ```install_github("NathanWhitmore/condev")```
 
 and then load the package via:
