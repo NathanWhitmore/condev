@@ -3,7 +3,12 @@ This repository is for the condev R package in support of "R for conservation an
 Both the package and the RStudio versions are in a development phase so if you are an early adopter I recommend reinstalling at monthly intervals.
 
 ### How to download
-First install the "devtools" package via install.packages("devtools") in Program R then run:
+First install the "devtools" package via:
+```
+install.packages("devtools")
+```
+
+in Program R then run:
 ```
 library("devtools") 
 install_github("NathanWhitmore/condev")
@@ -11,7 +16,7 @@ install_github("NathanWhitmore/condev")
 
 and then load the package via:
 ```
-library(condev)
+library("condev")
 ```
 
 ### How to access the data
@@ -27,3 +32,5 @@ data(demo1)
 ### Practice on RStudio.cloud
 Every example in the book can also be found on the virtual version of RStudio at: https://rstudio.cloud/project/508279
 RStudio.cloud provides a free and hassle free way to learn R via cloud computing.
+
+### Let me know if you encounter any problems
