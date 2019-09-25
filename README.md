@@ -4,17 +4,25 @@ Both the package and the RStudio versions are in a development phas so if you ar
 
 ### How to download
 First install the "devtools" package via install.packages("devtools") in Program R then run:
-```library("devtools") ```  
-```install_github("NathanWhitmore/condev")```
+```
+library("devtools") 
+install_github("NathanWhitmore/condev")
+```
 
 and then load the package via:
-```library(condev)```
+```
+library(condev)
+```
 
 ### How to access the data
 The data available for use can be viewed by the function:
-```data()```
+```
+data()
+```
 To bring a data set (e.g. 'demo1') into the R environment use:
-```data(demo1)```
+```
+data(demo1)
+```
 
 ### Practice on RStudio.cloud
 Every example in the book can also be found on the virtual version of RStudio at: https://rstudio.cloud/project/508279
