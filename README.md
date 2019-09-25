@@ -33,4 +33,4 @@ data(demo1)
 Every example in the book can also be found on the virtual version of RStudio at: https://rstudio.cloud/project/508279
 RStudio.cloud provides a free and hassle free way to learn R via cloud computing.
 
-### Let me know if you encounter any problems
+### Let me know if you encounter any problems...
