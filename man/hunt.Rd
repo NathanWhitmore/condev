@@ -1,6 +1,6 @@
 \name{hunt}
 \alias{hunt}
-\title{Hunting data: checking for colinearity and multicolinearity}
+\title{Hunting data (simulated)}
 \usage{
 data(hunt)
 }

@@ -1,11 +1,11 @@
 \name{prosecutions}
 \alias{prosecutions}
-\title{Village prosecution data: Poisson regression}
+\title{Village prosecution data (simulated)}
 \usage{
 data(prosecutions)
 }
 \description{
-The \code{prosecutions} is a data frame emulating the number of monthly environmental prosecutions before and after an awareness program with village magistrates. The study emualtes a simple Before-After design. The purpose of the data set is to demonstrate Poisson regression using the \code{glm()} function. 
+The \code{prosecutions} is a data frame emulating the number of monthly environmental prosecutions before and after an awareness program with village magistrates. The study emulates a simple Before-After design. The purpose of the data set is to demonstrate Poisson regression using the \code{glm()} function. 
 }
 
 \format{

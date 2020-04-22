@@ -1,6 +1,6 @@
 \name{clinic}
 \alias{clinic}
-\title{Patient visits to clinic (simulated)}
+\title{Patient visits to health clinic (simulated)}
 \usage{
 data(clinic)
 }
