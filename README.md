@@ -3,14 +3,14 @@ This repository is for the condev R package in support of "R for conservation an
 Both the package and the RStudio versions are in a development phase so if you are an early adopter I recommend reinstalling at monthly intervals.
 
 ### How to download
-First install the "devtools" package via:
+First install the "remotes" package via:
 ```
-install.packages("devtools")
+install.packages("remotes")
 ```
 
 in Program R then run:
 ```
-library("devtools") 
+library("remotes") 
 install_github("NathanWhitmore/condev")
 ```
 
