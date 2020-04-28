@@ -16,7 +16,7 @@ data.frame with 20 observations of  6 variables:
 \itemize{
 
 \item \code{hunter.ref:} reference name of hunter
-\item \code{age:} age of hunter (decimal years)
+\item \code{age:} age of hunter (years)
 \item \code{village:} home village of hunter
 \item \code{distance:} distance of hunter's home to forest edge
 \item \code{hours:} hours spent hunting
