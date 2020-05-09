@@ -5,7 +5,7 @@
 data(fishponds)
 }
 \description{
-The \code{fishponds} is a generic data frame. The data set demonstrate the use of repeated measure (linear effect models) design in livelihood projects. 
+The \code{fishponds} emulates a Before-After-Control-Impact study design. This type of study is usually analysed using a repeated measures analysis (typically using linear mixed effect models). Such study designs are often found in livelihood projects. 
 }
 
 \format{
@@ -16,7 +16,7 @@ data frame with 24 observations of  4 variables:
 \item \code{production.kg}: generic continuous variable (numeric) 
 \item \code{year}: generic continuous variable (numeric) 
 \item \code{feed}: feed type (2 factors: \code{high bran}, \code{low bran})
-\item \code{farmer}: individual identifier for 12 different farmers
+\item \code{farmer}: individual identifier (factor) for 12 different farmers
     
 }
 }

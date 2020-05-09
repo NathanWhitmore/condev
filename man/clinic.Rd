@@ -22,6 +22,8 @@ data frame with 368 observations of 4 variables:
    
 }
 
+As the data frame was constructed as a tibble variables containing text are read as characters rather than factors. 
+
 }
 
 
@@ -33,7 +35,7 @@ data(clinic)
 
 # anonymising names
 clinic \%>\% 
-  mutate(name =  as.factor(name) \%>\%
-  mutate(name = fct_anon(name, prefix="F"))
+  mutate(name =  as.factor(name),
+         name = fct_anon(name, prefix="F"))
 
 }

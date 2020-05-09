@@ -12,16 +12,17 @@ The \code{traps} data frame emulates a trapping data set. The \code{traps} data 
 data frame with 2640 observations of 7 variables:
 
 \itemize{
-\item \code{x}: longitude        
-\item \code{y}: longitude            
-\item \code{trap.type}: trap type (2 types)
-\item \code{bait.type}: bait type (2 types)  
-\item \code{cover}: forest cover 
-\item \code{date}: of date of trap check      
-\item \code{trap.catch}: whether or not a trap caught a mongoose (1) or not (0).
+\item \code{long}: longitude in decimal degrees (numeric)         
+\item \code{lat}: latitude in decimal degrees (numeric)            
+\item \code{trap.type}: trap type (2 types) (character)
+\item \code{bait.type}: bait type (2 types)  (character)
+\item \code{cover}: percentage forest cover (numeric)
+\item \code{date}: date of trap check (date)  
+\item \code{trap.catch}: whether or not a trap caught a mongoose (1) or not (0) (integer)
 }
 
 }
+
 
 \examples{
 library(tidyverse)

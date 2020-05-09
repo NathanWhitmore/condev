@@ -5,7 +5,7 @@
 data(treecover)
 }
 \description{
-The \code{treecover} is a raster which emulates the tree canopy cover for year 2000 downloadable from  global forest change website: \code{http://earthenginepartners.appspot.com/science-2013-global-forest} (Hansen et al. 2013). The purpose of this data set is to introduce users to basic raster manipulation.
+\code{treecover} is a raster which emulates the tree canopy cover for year 2000 downloadable from  global forest change website: \code{http://earthenginepartners.appspot.com/science-2013-global-forest} (Hansen et al. 2013). The purpose of this data set is to introduce users to basic raster manipulation.
 
 Reference: Hansen, M.C., Potapov, P.V., Moore, R., Hancher, M., Turubanova, S.A., Tyukavina, A., Thau, D., Stehman, S.V., Goetz, S.J., Loveland, T.R. and Kommareddy, A., 2013. High-resolution global maps of 21st-century forest cover change. science, 342(6160), pp.850-853
 }
