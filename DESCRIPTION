@@ -7,7 +7,7 @@ Maintainer: <nathan@reproducible.co.nz>
 Description: Data supporting 'R for Conservation and Development Projects'
 License: GPL-3
 LazyData: TRUE
-Depends:
+Depends:sp
 Suggests: tidyverse,
     rmarkdown
 VignetteBuilder: knitr
