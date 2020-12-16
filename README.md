@@ -27,5 +27,5 @@ data()
 To bring a data set (e.g. 'demo1') into the R environment use:
 ```
 data(demo1)
-
+```
 ### Let me know if you encounter any problems...
