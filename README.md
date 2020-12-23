@@ -1,6 +1,6 @@
 # condev
 This repository is for the condev R package in support of "[R for conservation and development applications: a primer for practitioners](https://www.routledge.com/R-for-Conservation-and-Development-Projects-A-Primer-for-Practitioners/Whitmore/p/book/9780367205485)
-" by Nathan Whitmore (that's me). A bookdown version of the book will available in early 2020. All example datasets used in the book are contained within this package.
+" by Nathan Whitmore (that's me). All example datasets used in the book are contained within this package.
 
 ### How to download
 First install the "remotes" package via:
