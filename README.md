@@ -28,4 +28,7 @@ To bring a data set (e.g. 'demo1') into the R environment use:
 ```
 data(demo1)
 ```
-### Let me know if you encounter any problems...
+### Extras
+I have also set up a [blog] (https://nathanwhitmore.github.io/R4condevblog/) which expands upon the material in the book and will provide additional support and examples for readers.
+
+Let me know if you encounter any problems or have any suggestions.
